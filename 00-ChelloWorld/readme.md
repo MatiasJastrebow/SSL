@@ -4,4 +4,4 @@
 hello.c
 
 ### Compilador
-MSYS2 MinGW-w64
+MSYS2 UCRT64
